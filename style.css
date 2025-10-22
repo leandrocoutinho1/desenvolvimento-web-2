@@ -1,0 +1,30 @@
+/* style.css */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #cac8c880;
+}
+
+nav {
+    background-color: #221d1d80;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+a {
+    color: aliceblue;
+}
+
+main {
+    background-color: aliceblue;
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    width: 70%;
+    margin: auto;
+    align-items: center;
+}
