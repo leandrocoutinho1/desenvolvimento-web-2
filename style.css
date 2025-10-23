@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-    background-color: #221d1d80;
+    background-color: #000000;
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ a {
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     width: 70%;
     margin: auto;
 }
@@ -27,4 +27,21 @@ header {
     width: 70%;
     margin: auto;
     align-items: center;
+    text-align: center;
+}
+
+footer {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1.5rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+form {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
 }
